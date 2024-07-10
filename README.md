@@ -1,16 +1,13 @@
-## Hola soy, Jhon Chino 👋
+<div align="center">
+<h1 align="center">Hola, soy Chino01dev 👋</h1>
+</div>
+<img src="https://media.licdn.com/dms/image/D4E16AQFDp3Db3efvIA/profile-displaybackgroundimage-shrink_350_1400/0/1698805964045?e=1726099200&v=beta&t=TheuZDNvctJhRMFUZnTM429GLT6TuRHbtqFjEHXJIUk">
 
-<!--
-**Chino01dev/Chino01dev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### ⚙️ &nbsp;GitHub Analytics
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<p align="center">
+<a href="https://github.com/Chino01dev">
+  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=Chino01dev&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=Chino01dev&layout=compact&langs_count=8&theme=algolia"/>
+</a>
+</p>
